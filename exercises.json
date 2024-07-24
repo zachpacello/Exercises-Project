@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "625f20004a2a7794a3ff6656"
+  },
+  "type": "userExercise",
+  "bodyPart": "waist",
+  "equipment": "body weight",
+  "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0001.gif",
+  "name": "3/4 sit-up",
+  "target": "abs",
+  "userId": "625ef074cd7ff27c4661ddd9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625f20114a2a7794a3ff6659"
+  },
+  "type": "userExercise",
+  "bodyPart": "upper legs",
+  "equipment": "assisted",
+  "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1709.gif",
+  "name": "assisted lying glutes stretch",
+  "target": "glutes",
+  "userId": "625ef074cd7ff27c4661ddd9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627aa5b9a0800fe801ead1b4"
+  },
+  "type": "userExercise",
+  "bodyPart": "waist",
+  "equipment": "body weight",
+  "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0001.gif",
+  "name": "3/4 sit-up",
+  "target": "abs",
+  "userId": "625f2138d2d3861309d4f5f4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6610043b2395ba89e9509497"
+  },
+  "type": "userExercise",
+  "bodyPart": "waist",
+  "equipment": "body weight",
+  "gifUrl": "https://api.exercisedb.io/image/fDAtIRauXk0gS0",
+  "name": "air bike",
+  "target": "abs",
+  "userId": "6610034034260ce860d6ac59",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66157c47c58377ca66cb9648"
+  },
+  "type": "userExercise",
+  "bodyPart": "waist",
+  "equipment": "body weight",
+  "gifUrl": "https://api.exercisedb.io/image/ni7BPDaKbkiZWE",
+  "name": "45° side bend",
+  "target": "abs",
+  "userId": "66156be62556cab61fa7c9af",
+  "__v": 0
+}]
