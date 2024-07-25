@@ -1,5 +1,7 @@
-Download VS Code and NodeJS
+1. Download VS Code and NodeJS
 
-npm uninstall bcrypt
+2. npm uninstall bcrypt
 
-Install MongoDB
+3.  Install MongoDB
+
+4.  Create DB Named Exercise with the following collections: categories, exercises, recipes, sessions, users 
